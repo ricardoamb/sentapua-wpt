@@ -1,2 +1,3 @@
-![alt text](https://ricardoamb.github.io/sentapua_error_logo.png "Sentapua Agency")
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sentapua Agency") 
 ### Sentapua Agency WPT (Wordpress Theme) Blueprint ###
+This is a Wordpress theme for Sentapua Agency Projects
